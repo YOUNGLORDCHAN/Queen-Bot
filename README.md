@@ -35,11 +35,11 @@
 
 
 
-### SCAN QR
+### SCAN CODE
 
 2. Scan the QR and get the SESSION ID
    <br>
-<a href='https://x-bot-md-qr.koyeb.app' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://x-bot-md-qr.koyeb.app/pair' target="_blank"><img alt='SCAN CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 #### DEPLOY ON RENDER(But not now I'll update you when to do so)
 
