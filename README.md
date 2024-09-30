@@ -119,7 +119,7 @@
 <br>
 
 * [`EX-KRIZ`](https://github.com/EX-KRIZ)
-* [`VIPER`](https://github.com/Viper-X0)
+* [`TYLOR`](https://github.com/heyit-tylor)
 * [`KICHU`](https://github.com/KichuExe)
  </details>
  
