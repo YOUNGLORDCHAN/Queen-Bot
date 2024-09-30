@@ -52,7 +52,7 @@
     "WORK_TYPE": {
       "description": "Enter Your Mode Type public For Public Otherwise Type private",
       "required": false,
-      "value": "private"
+      "value": "true"
     },
     "AUTO_STATUS_VIEW": {
       "description": "If You Want To View Status Automatically, Type true. Otherwise, Type false",
