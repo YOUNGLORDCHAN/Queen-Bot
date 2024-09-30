@@ -118,8 +118,7 @@
 
 <br>
 
-* [`EX-KRIZ`](https://github.com/EX-KRIZ)
+
 * [`TYLOR`](https://github.com/heyit-tylor)
-* [`KICHU`](https://github.com/KichuExe)
- </details>
+
  
