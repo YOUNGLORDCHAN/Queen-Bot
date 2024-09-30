@@ -58,6 +58,11 @@
 <br>
 
 
+External database url for Render
+      ```
+      postgresql://queenbotmd_user:ML5vDCJgjGHYsGzYQduTufoQTsxaxFaf@dpg-crtiap1u0jms7391butg-a.oregon-postgres.render.com/queenbotmd
+      ```  
+      
 <a aria-label="Tutorial" href="https://youtu.be/OqYCvFNE4sU?si=YbPqnLBWeP8-2Yys" target="_blank">
     <img alt="youtube" src="https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 
