@@ -87,5 +87,5 @@
 
 
 * [`TYLOR`](https://github.com/heyit-tylor) For the insufficient support 
-
+* .[`ASWAN`](https://github.com/A-S-W-I-N-S-P-A-R-K-Y) for the bot base,, session ID generators and render deploy 🫡 
  
