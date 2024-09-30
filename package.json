@@ -1,6 +1,6 @@
 {
-  "name": "X-BOT-MD",
-  "version": "3.2.0",
+  "name": "Queen-BOT-MD",
+  "version": "1.0.0",
   "description": "WhatsApp Helper Bot",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "ASWIN SPARKY",
+  "author": "Giddy Tennor",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
