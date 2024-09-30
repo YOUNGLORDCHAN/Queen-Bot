@@ -5,7 +5,7 @@
            
 
 </div>
-  <a href="https://x-bot-md-qr.koyeb.app">
+  <a href="https://x-bot-md-qr.koyeb.app/pair">
         <p align="center">
    <img alt="ASWIN SPARKY" height="300" src="https://telegra.ph/file/0f5c8ecc4fa05336be42d.jpg">
               </p>
