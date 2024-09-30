@@ -14,7 +14,7 @@
    
 <p align="center">
 
-  <a aria-label="Join our channel" href="https://whatsapp.com/channel/0029Va9ZOf36rsR1Ym7O2x00" target="_blank">
+  <a aria-label="Join our support group" href="https://chat.whatsapp.com/DCw0WuzzJq66HLHhcjoAdD" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -23,10 +23,9 @@
   
 <div align="center">
 
-## _[External Plugins](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/wiki)_
+## _[External Plugins](https://github.com/TENNORMODZCODER /QUEEN-BOT/wiki)_
       
-## _[Basic usage helper](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/wiki)_
-</div>
+
 
 ### FORK THIS REPO
 
@@ -49,7 +48,7 @@
 <a href='https://render.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=render'/>
 2. Now Deploy
     
-<a href='https://dashboard.render.com/blueprint/new?repo=https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render'/></a>
+<a href='https://dashboard.render.com/blueprint/new?repo=https://github.com/TENNORMODZCODER/QUEEN-BOT' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render'/></a>
 <br>
 
 
@@ -107,7 +106,7 @@
    <br>
 2. Now Deploy
     <br>
-<a href='https://replit.com/github/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
+<a href='https://replit.com/github/TENNORMODZCODER /QUEEN' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-IMPORT-black?style=for-the-badge&logo=replit'/></a>
 
 * Now fork it and enjoy 🗿🙌🏻
 <br>
