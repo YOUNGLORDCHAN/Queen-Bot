@@ -65,7 +65,7 @@
    <br>
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/Tennormodzcoder/Queen-Bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https%3A%2F%2Fgithub.com%2FTENNORMODZCODER%2FQUEEN-BOT%3Ftab%3Dreadme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
 #### DEPLOY TO KOYEB 
 
