@@ -3,7 +3,7 @@
       <h2 align="center">This bot is still under development so if you want to use it, please check this main repo every day and update your "FORKED REPO" because i am continuously debugging it and making major changes in it</h2>
      <div align="center">
            
-## _[Update My Repo](https://github.com/TENNORMODZCODER /QUEEN-BOT-MD/wiki/FORK-UPDATE)_
+
 </div>
   <a href="https://x-bot-md-qr.koyeb.app">
         <p align="center">
@@ -23,7 +23,7 @@
   
 <div align="center">
 
-## _[External Plugins](https://github.com/TENNORMODZCODER /QUEEN-BOT/wiki)_
+
       
 
 
