@@ -58,9 +58,6 @@
 <br>
 
 
- 1. External database for render(copy it)
-      ```   
-      postgresql://queenbotmd_user:ML5vDCJgjGHYsGzYQduTufoQTsxaxFaf@dpg-crtiap1u0jms7391butg-a.oregon-postgres.render.com/queenbotmd
       ```
       
 <a aria-label="Tutorial" href="https://youtu.be/OqYCvFNE4sU?si=YbPqnLBWeP8-2Yys" target="_blank">
