@@ -41,7 +41,7 @@
    <br>
 <a href='https://x-bot-md-qr.koyeb.app' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-#### DEPLOY ON RENDER
+#### DEPLOY ON RENDER(But not now I'll update you when to do so)
 
 1. If You don't have a account in Render. Create a account.
     <br>
