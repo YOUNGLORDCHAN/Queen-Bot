@@ -37,12 +37,12 @@
     "AUDIO_DATA": {
       "description": "Enter Your Owner Name",
       "required": false,
-      "value": "Queen BOT MD; Giddy Tennor;https://i.imgur.com/fVCRCYG.jpeg"
+      "value": "Queen BOT MD; Giddy Tennor;https://imgur.com/a/TdYodvC"
     },
     "BOT_INFO": {
       "description": "Enter Your Owner Number",
       "required": false,
-      "value": "Queen-BOT-MD; Giddy Tennor;https://i.imgur.com/r3GZeiX.jpeg"
+      "value": "Queen-BOT-MD; Giddy Tennor;https://imgur.com/a/TdYodvC"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter Your Bot Name",
