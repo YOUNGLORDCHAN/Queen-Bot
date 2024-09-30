@@ -35,13 +35,19 @@
 
 
 
-### SCAN CODE
+### SCAN CODE 
 
-2. Scan the QR and get the SESSION ID
+2. Scan the QR and get the SESSION ID by pairing 
    <br>
 <a href='https://x-bot-md-qr.koyeb.app/pair' target="_blank"><img alt='SCAN CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+### SCAN CODE 
 
-#### DEPLOY ON RENDER(But not now I'll update you when to do so)
+2. Scan the QR and get the SESSION ID by scanning the QR
+   <br>
+<a href='https://x-bot-md-qr.koyeb.app/qr' target="_blank"><img alt='SCAN CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+
+#### DEPLOY ON RENDER
 
 1. If You don't have a account in Render. Create a account.
     <br>
