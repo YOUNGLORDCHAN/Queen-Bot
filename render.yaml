@@ -3,7 +3,7 @@ services:
     name: Queen-bot
     env: node
     branch: main
-    repo: https://github.com/TENNORMODZCODER /QUEEN-BOT.git
+    repo: https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD.git
     buildCommand: npm install
     startCommand: npm start
     plan: free
