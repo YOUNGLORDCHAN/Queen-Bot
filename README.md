@@ -111,7 +111,7 @@
 * Now fork it and enjoy 🗿🙌🏻
 <br>
 
-#### Thanks To
+#### Thanks To 🌠
 
 <details close>
 <summary>Read More</summary>
