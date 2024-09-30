@@ -50,7 +50,7 @@
       "value": "false"
     },
     "WORK_TYPE": {
-      "description": "Enter Your Mode Type public For Public Otherwise Type private",
+      "description": "Enter Your Mode Type true For Public Otherwise Type private",
       "required": false,
       "value": "true"
     },
