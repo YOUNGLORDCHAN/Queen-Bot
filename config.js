@@ -56,7 +56,7 @@ module.exports = {
   READ_MESSAGES,
   DISABLE_PM,
   URL,
-  VERSION:"3.2.0",
+  VERSION:"1.0.0",
   HEROKU_API_KEY,
   HEROKU_APP_NAME,
   KOYEB_API_KEY,
